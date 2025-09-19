@@ -1,0 +1,25 @@
+{
+  "Connections": {
+    "open": true
+  },
+  "NetworkTables Settings": {
+    "mode": "Client (NT4)"
+  },
+  "Persistent Values": {
+    "open": false
+  },
+  "transitory": {
+    "FMSInfo": {
+      "open": true
+    },
+    "LiveWindow": {
+      "open": true
+    },
+    "Shuffleboard": {
+      ".recording": {
+        "open": true
+      },
+      "open": true
+    }
+  }
+}
